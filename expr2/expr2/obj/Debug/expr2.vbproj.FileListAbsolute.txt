@@ -1,0 +1,11 @@
+D:\VB\expr2\expr2\bin\Debug\expr2.exe.config
+D:\VB\expr2\expr2\bin\Debug\expr2.exe
+D:\VB\expr2\expr2\bin\Debug\expr2.pdb
+D:\VB\expr2\expr2\bin\Debug\expr2.xml
+D:\VB\expr2\expr2\obj\Debug\expr2.vbprojAssemblyReference.cache
+D:\VB\expr2\expr2\obj\Debug\expr2.Form1.resources
+D:\VB\expr2\expr2\obj\Debug\expr2.Resources.resources
+D:\VB\expr2\expr2\obj\Debug\expr2.vbproj.GenerateResource.cache
+D:\VB\expr2\expr2\obj\Debug\expr2.exe
+D:\VB\expr2\expr2\obj\Debug\expr2.xml
+D:\VB\expr2\expr2\obj\Debug\expr2.pdb
